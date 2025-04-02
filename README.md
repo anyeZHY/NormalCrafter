@@ -1,6 +1,6 @@
 ## ___***NormalCrafter: Learning Temporally Consistent Video Normal from Video Diffusion Priors***___
 
-_**[Yanrui Bin<sup>2</sup>](https://scholar.google.com/citations?user=_9fN3mEAAAAJ&hl=zh-CN),[Wenbo Hu<sup>2*](https://wbhu.github.io), 
+_**[Yanrui Bin<sup>1</sup>](https://scholar.google.com/citations?user=_9fN3mEAAAAJ&hl=zh-CN),[Wenbo Hu<sup>2*](https://wbhu.github.io), 
 [Haoyuan Wang<sup>3](https://www.whyy.site/), 
 [Xinya Chen<sup>3](https://xinyachen21.github.io/), 
 [Bing Wang<sup>2 &dagger;</sup>](https://bingcs.github.io/)**_
