@@ -23,7 +23,7 @@ We recommend that everyone use English to communicate on issues, as this helps d
 For business licensing and other related inquiries, don't hesitate to contact `binyanrui@gmail.com`.
 
 ## 🔆 Introduction
-🤗 If you find DepthCrafter useful, **please help ⭐ this repo**, which is important to Open-Source projects. Thanks!
+🤗 If you find NormalCrafter useful, **please help ⭐ this repo**, which is important to Open-Source projects. Thanks!
 
 🔥 NormalCrafter can generate temporally consistent normal sequences
 with fine-grained details from open-world videos with arbitrary lengths.
@@ -64,7 +64,7 @@ python run.py  --video-path examples/example_01.mp4
 python run.py  --video-path examples/example_01.mp4 --max-res 512
 ```
 
-## 📜 Citation
+<!-- ## 📜 Citation
 If you find this work helpful, please consider citing:
 ```BibTeXw
 @article{hu2024-DepthCrafter,
@@ -73,4 +73,4 @@ If you find this work helpful, please consider citing:
             journal     = {arXiv preprint arXiv:2409.02095},
             year        = {2024}
     }
-```
+``` -->
