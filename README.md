@@ -1,9 +1,3 @@
----
-title: Yanrui95NormalCrafter
-app_file: app.py
-sdk: gradio
-sdk_version: 5.23.2
----
 ## ___***NormalCrafter: Learning Temporally Consistent Video Normal from Video Diffusion Priors***___
 
 _**[Yanrui Bin<sup>2</sup>](https://scholar.google.com/citations?user=_9fN3mEAAAAJ&hl=zh-CN),[Wenbo Hu<sup>2 &dagger;</sup>](https://wbhu.github.io), 
