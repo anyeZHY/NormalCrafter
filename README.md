@@ -1,14 +1,14 @@
 ## ___***NormalCrafter: Learning Temporally Consistent Video Normal from Video Diffusion Priors***___
 
-_**[Yanrui Bin<sup>2</sup>](https://scholar.google.com/citations?user=_9fN3mEAAAAJ&hl=zh-CN),[Wenbo Hu<sup>2 &dagger;</sup>](https://wbhu.github.io), 
+_**[Yanrui Bin<sup>2</sup>](https://scholar.google.com/citations?user=_9fN3mEAAAAJ&hl=zh-CN),[Wenbo Hu<sup>2*](https://wbhu.github.io), 
 [Haoyuan Wang<sup>3](https://www.whyy.site/), 
 [Xinya Chen<sup>3](https://xinyachen21.github.io/), 
-[Bing Wang<sup>1*](https://bingcs.github.io/)**_
+[Bing Wang<sup>2 &dagger;</sup>](https://bingcs.github.io/)**_
 <br><br>
 <sup>1</sup>Spatial Intelligence Group, The Hong Kong Polytechnic University
 <sup>2</sup>Tencent AI Lab
 <sup>3</sup>City University of Hong Kong
-<sup>4</sup>xxx
+<sup>4</sup>Huazhong University of Science and Technology
 </div>
 
 ## 🔆 Notice
@@ -57,14 +57,3 @@ python run.py  --video-path examples/example_01.mp4
 ```bash
 python run.py  --video-path examples/example_01.mp4 --max-res 512
 ```
-
-<!-- ## 📜 Citation
-If you find this work helpful, please consider citing:
-```BibTeXw
-@article{hu2024-DepthCrafter,
-            author      = {Hu, Wenbo and Gao, Xiangjun and Li, Xiaoyu and Zhao, Sijie and Cun, Xiaodong and Zhang, Yong and Quan, Long and Shan, Ying},
-            title       = {NormalCrafter: Generating Consistent Long Depth Sequences for Open-world Videos},
-            journal     = {arXiv preprint arXiv:2409.02095},
-            year        = {2024}
-    }
-``` -->
