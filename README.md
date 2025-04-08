@@ -2,7 +2,7 @@
 
 _**[Yanrui Bin<sup>1</sup>](https://scholar.google.com/citations?user=_9fN3mEAAAAJ&hl=zh-CN),[Wenbo Hu<sup>2*](https://wbhu.github.io), 
 [Haoyuan Wang<sup>3](https://www.whyy.site/), 
-[Xinya Chen<sup>3](https://xinyachen21.github.io/), 
+[Xinya Chen<sup>4](https://xinyachen21.github.io/), 
 [Bing Wang<sup>2 &dagger;</sup>](https://bingcs.github.io/)**_
 <br><br>
 <sup>1</sup>Spatial Intelligence Group, The Hong Kong Polytechnic University
