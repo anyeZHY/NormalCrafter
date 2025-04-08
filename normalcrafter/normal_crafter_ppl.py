@@ -5,7 +5,6 @@ import numpy as np
 import PIL.Image
 import torch
 import torch.nn.functional as F
-from einops import rearrange
 import math
 
 from diffusers.utils import BaseOutput, logging
