@@ -120,7 +120,7 @@ def construct_demo():
             with gr.Column(scale=2):
                 with gr.Row(equal_height=True):
                     output_video_1 = gr.Video(
-                        label="Preprocessed video",
+                        label="Preprocessed Video",
                         interactive=False,
                         autoplay=True,
                         loop=True,
@@ -128,7 +128,7 @@ def construct_demo():
                         scale=5,
                     )
                     output_video_2 = gr.Video(
-                        label="Generated normal Video",
+                        label="Generated Normal Video",
                         interactive=False,
                         autoplay=True,
                         loop=True,
@@ -141,21 +141,21 @@ def construct_demo():
                 with gr.Row(equal_height=False):
                     with gr.Accordion("Advanced Settings", open=False):
                         max_res = gr.Slider(
-                            label="max resolution",
+                            label="Max Resolution",
                             minimum=512,
                             maximum=1024,
                             value=1024,
                             step=64,
                         )
                         process_length = gr.Slider(
-                            label="process length",
+                            label="Process Length",
                             minimum=-1,
                             maximum=280,
                             value=60,
                             step=1,
                         )
                         process_target_fps = gr.Slider(
-                            label="target FPS",
+                            label="Target FPS",
                             minimum=-1,
                             maximum=30,
                             value=15,
