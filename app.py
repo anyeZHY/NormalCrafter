@@ -22,8 +22,8 @@ examples = [
     ["examples/example_02.mp4", 1024, -1, -1],
     ["examples/example_03.mp4", 1024, -1, -1],
     ["examples/example_04.mp4", 1024, -1, -1],
-    ["examples/example_05.mp4", 1024, -1, -1],
-    ["examples/example_06.mp4", 1024, -1, -1],
+    # ["examples/example_05.mp4", 1024, -1, -1],
+    # ["examples/example_06.mp4", 1024, -1, -1],
 ]
 
 pretrained_model_name_or_path = "Yanrui95/NormalCrafter"
