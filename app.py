@@ -108,7 +108,7 @@ def construct_demo():
                     <a style='font-size:18px;color: #FF5DB0' href='https://github.com/Binyr/NormalCrafter'>[Github Repo]</a>\
                     <a style='font-size:18px;color: #000000'>, which is important to Open-Source projects. Thanks!</a>\
                         <a style='font-size:18px;color: #000000' href='https://arxiv.org/abs/xxx'> [ArXiv] </a>\
-                        <a style='font-size:18px;color: #000000' href='https://binyr.github.io/NormalCrafter/'> [Project Page] </a> </div>
+                        <a style='font-size:18px;color: #000000' href='https://normalcrafter.github.io/'> [Project Page] </a> </div>
             """
         )
 
@@ -128,7 +128,7 @@ def construct_demo():
                         scale=5,
                     )
                     output_video_2 = gr.Video(
-                        label="Generated Depth Video",
+                        label="Generated normal Video",
                         interactive=False,
                         autoplay=True,
                         loop=True,

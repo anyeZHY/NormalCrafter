@@ -6,7 +6,7 @@ _**[Yanrui Bin<sup>1</sup>](https://scholar.google.com/citations?user=_9fN3mEAAA
 [Bing Wang<sup>2 &dagger;</sup>](https://bingcs.github.io/)**_
 <br><br>
 <sup>1</sup>Spatial Intelligence Group, The Hong Kong Polytechnic University
-<sup>2</sup>Tencent AI Lab
+<sup>2</sup>ARC Lab, Tencent PCG
 <sup>3</sup>City University of Hong Kong
 <sup>4</sup>Huazhong University of Science and Technology
 </div>
